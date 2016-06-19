@@ -2,7 +2,7 @@
 
 #I recoded this script into a Java GUI Application
 #I undertook this for educational purposes only. Testing my own account  
-#Don't attack people facebook accounts it's illegal !
+#Don't attack other peoples accounts it's illegal !
 #If you want to crack into someone's account, you must have the permission of the user.
 
         +=======================================+
