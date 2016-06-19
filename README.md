@@ -27,3 +27,7 @@ I have included parts of the script, not the complete src :)
 #Limitations 
 
 Facebook block requests after 15 entries
+
+#Note
+
+I have found ways to bypass the limitations, imposed by facebook, by utilizing this program with IP switchers acting every X secs, although I did not test this thoroughly, I believe that it could be capable in brute forcing in a realistic amount of time.
