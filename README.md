@@ -1,9 +1,11 @@
 #Facebook-Account
 
-#I recoded this script into a Java GUI Application
-#I undertook this for educational purposes only. Testing my own account  
-#Don't attack other peoples accounts it's illegal !
-#If you want to crack into someone's account, you must have the permission of the user.
+I recoded this script into a Java GUI Application
+I undertook this for educational purposes only. Testing my own account  
+Don't attack other peoples accounts it's illegal !
+If you want to crack into someone's account, you must have the permission of the user.
+
+I have included parts of the script, not the complete src :)
 
         +=======================================+
         |..........Facebook Cracker v 2.........|
@@ -22,6 +24,6 @@
         +---------------------------------------+
         
 
-Limitations 
+#Limitations 
 
-# Facebook block requests after 15 entries
+Facebook block requests after 15 entries
